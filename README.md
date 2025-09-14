@@ -26,7 +26,7 @@
 
 EasiBites is a cross-platform mobile application that revolutionizes how people with dietary restrictions discover and enjoy dining experiences. Built with Flutter and modern development practices, it combines real-time restaurant data, advanced allergen detection algorithms, and social dining features to create a safe and personalized food discovery platform.
 
-**Developed as part of a comprehensive internship project demonstrating advanced Flutter development skills, state management, API integration, and mobile app architecture best practices.**
+**Project demonstrating advanced Flutter development skills, state management, API integration, and mobile app architecture best practices.**
 
 ### � What Makes It Special
 
